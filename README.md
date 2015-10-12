@@ -1,2 +1,0 @@
-# aquarion-evol
-Aquarion EVOL
